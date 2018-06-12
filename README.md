@@ -1,0 +1,2 @@
+# Bakterieprojekt
+Bakterieprojektet på DTU
